@@ -1,4 +1,4 @@
-### Hi there, I'm Arlysson 👋
+### Hi there, I'm Maik 👋
 
 Software Engineering student with a strong interest in **Game Development** and **Mobile Programming**. Currently focused on building my foundation, studying algorithms, and practicing through university and personal projects.
 
